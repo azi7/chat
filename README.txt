@@ -14,7 +14,7 @@ Project Structure
 
 2. Clone the Repository:
    
-   git clone <repository-url>
+   git clone https://github.com/azi7/chat
    cd chat-application-websocket
    
 
