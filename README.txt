@@ -42,5 +42,3 @@ Abdulaziz Alatawi
 Feel free to customize this README with your details and any additional information about the project. Enjoy chatting in real-time! 🚀
 
 --- 
-
-يرجى استبدال `[repository-url]` برابط مستودع المشروع على GitHub أو أي منصة إدارة الشفرة المستخدمة. ويمكنك أيضاً استبدال `[Your Name]` بالاسم الخاص بك أو اسم فريقك إذا كان هذا المشروع مشترك بين عدة أشخاص.
