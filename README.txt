@@ -39,6 +39,3 @@ Author
 
 Abdulaziz Alatawi
 
-Feel free to customize this README with your details and any additional information about the project. Enjoy chatting in real-time! 🚀
-
---- 
